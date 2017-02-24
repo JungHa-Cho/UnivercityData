@@ -1,0 +1,146 @@
+Initialize Student array:
+First 10 of total 10000 students:
+St_id ( 6913): Name (Mzovitplvkmub, Ommnsnldx), Dept (RVAX), grade (8), GPA (91.11)
+St_id ( 5137): Name (Tnl, Alzjlv), Dept (UYJYYXYWFVQ), grade (1), GPA (62.84)
+St_id (  330): Name (Kmnef, Xjvfszzxficyrq), Dept (ESJEUPARYRRX), grade (1), GPA (74.96)
+St_id ( 1610): Name (Uyjvmw, Djlduqbgwzo), Dept (OBYVURNKWNLO), grade (1), GPA (13.97)
+St_id ( 8669): Name (Tgurcsqsk, Slbp), Dept (DHGRNDYVCIUE), grade (3), GPA (9.65)
+St_id ( 4959): Name (Acpstwe, Tocepgegs), Dept (BGEOMCDVDPKW), grade (4), GPA (26.04)
+St_id ( 8913): Name (Gue, Cbuhjyfromhkhf), Dept (BSBPZFI), grade (8), GPA (34.17)
+St_id ( 4001): Name (Zodvgsfwxeb, Vusstijfpw), Dept (KUE), grade (5), GPA (12)
+St_id ( 3927): Name (Jydvmjmjmglia, Kjiuissgtdkgqs), Dept (MXDJCYNAIFPQME), grade (1), GPA (99.04)
+St_id ( 8683): Name (Eagisyzmqzxqo, Zqmspihhm), Dept (KJKLSNGBFG), grade (2), GPA (42.77)
+Last 10 of total 10000 students:
+St_id (   69): Name (Yftyzdipgza, Khupvn), Dept (KNSDVIANDWS), grade (8), GPA (55.66)
+St_id ( 4921): Name (Zayis, Kfpebmgdd), Dept (JOGR), grade (8), GPA (53.82)
+St_id ( 3992): Name (Rybjxirpbaih, Gkxeumki), Dept (STS), grade (3), GPA (8.52)
+St_id ( 9296): Name (Lwftmrmttkbq, Fukas), Dept (JKQEHS), grade (7), GPA (11.6)
+St_id ( 6646): Name (Veqatixnn, Jolfmpfsh), Dept (TQQEQGNGYGYBQ), grade (6), GPA (8.98)
+St_id ( 9438): Name (Jtds, Vgvthbp), Dept (ICPAYBPKOC), grade (5), GPA (87.15)
+St_id ( 3062): Name (Xbg, Pkfuukd), Dept (TPSJEM), grade (3), GPA (69.81)
+St_id ( 6920): Name (Aaer, Qsm), Dept (PPKRRSFMEEIHA), grade (5), GPA (71.97)
+St_id ( 3312): Name (Kfwf, Bkzh), Dept (NEKMZICTQO), grade (4), GPA (1.8)
+St_id ( 3278): Name (Azvzb, Wfn), Dept (BGZ), grade (6), GPA (20.91)
+
+*** Management of structure array of students ***
+Students array sorted by ID :
+Time for quickSorting of array of students: 1264.83microseconds
+First 10 of total 10000 students:
+St_id (  330): Name (Kmnef, Xjvfszzxficyrq), Dept (ESJEUPARYRRX), grade (1), GPA (74.96)
+St_id ( 1610): Name (Uyjvmw, Djlduqbgwzo), Dept (OBYVURNKWNLO), grade (1), GPA (13.97)
+St_id ( 2636): Name (Xjhjgtxohzs, Ojslcfzcooqmvl), Dept (UPBVPCDA), grade (2), GPA (34.26)
+St_id ( 1340): Name (Wbrtzw, Ebmelbfmzyawp), Dept (DPL), grade (6), GPA (75.19)
+St_id ( 1157): Name (Fawngcn, Pcorwpwsqg), Dept (AMGMPNTTDTIU), grade (1), GPA (88.71)
+St_id (  939): Name (Uucbbsb, Ibddcycbbkbi), Dept (GUGTPACVGWSX), grade (7), GPA (93.41)
+St_id ( 2600): Name (Rmnsht, Zpzbhaaijjei), Dept (WQK), grade (3), GPA (34.47)
+St_id (  442): Name (Rnlpxtkikcjsns, Auznordfev), Dept (RECYEKK), grade (1), GPA (6.66)
+St_id ( 1276): Name (Ypcsb, Nmasjgdk), Dept (XUMUAUPGRU), grade (5), GPA (92.46)
+St_id ( 2431): Name (Bhtlwuyh, Ohvvmzil), Dept (POVQABRPIJVXZX), grade (4), GPA (65.16)
+Last 10 of total 10000 students:
+St_id ( 8333): Name (Stye, Ihuzeavskfr), Dept (GIOJPOZZSPXEHA), grade (1), GPA (76.79)
+St_id ( 4921): Name (Zayis, Kfpebmgdd), Dept (JOGR), grade (8), GPA (53.82)
+St_id ( 3992): Name (Rybjxirpbaih, Gkxeumki), Dept (STS), grade (3), GPA (8.52)
+St_id ( 9296): Name (Lwftmrmttkbq, Fukas), Dept (JKQEHS), grade (7), GPA (11.6)
+St_id ( 6646): Name (Veqatixnn, Jolfmpfsh), Dept (TQQEQGNGYGYBQ), grade (6), GPA (8.98)
+St_id ( 9438): Name (Jtds, Vgvthbp), Dept (ICPAYBPKOC), grade (5), GPA (87.15)
+St_id ( 5516): Name (Qtc, Rdzixfblkdnsrq), Dept (FCQEWW), grade (3), GPA (24.88)
+St_id ( 6920): Name (Aaer, Qsm), Dept (PPKRRSFMEEIHA), grade (5), GPA (71.97)
+St_id ( 3312): Name (Kfwf, Bkzh), Dept (NEKMZICTQO), grade (4), GPA (1.8)
+St_id ( 3278): Name (Azvzb, Wfn), Dept (BGZ), grade (6), GPA (20.91)
+
+10 searched results from Array;
+St_id ( 3622): Name (Otvn, Lrbid), Dept (OTGEH), grade (1), GPA (25.72)
+St_id (  508): Name (Poygtfmhdm, Lmbgsffd), Dept (TSTTFOBIRE), grade (5), GPA (13.75)
+St_id ( 9154): Name (Vjthfhzrsp, Pwtyauecyfdbru), Dept (SAGYJ), grade (6), GPA (14.96)
+St_id ( 2836): Name (Tcw, Gft), Dept (QXHLENRKMRI), grade (1), GPA (95.05)
+St_id ( 3647): Name (Evaiu, Gukwsrqkyecf), Dept (JREWBFILGPACAM), grade (4), GPA (9.2)
+St_id ( 5563): Name (Uzv, Hzdcbqpjo), Dept (FWTULDD), grade (3), GPA (12.17)
+St_id ( 4259): Name (Kgztpyfrx, Myujju), Dept (YHY), grade (1), GPA (13.91)
+St_id ( 9555): Name (Nks, Qvbyms), Dept (ZSCBZIRF), grade (1), GPA (74.5)
+St_id ( 4125): Name (Cwxbfq, Rapfp), Dept (QCSEPTRBX), grade (8), GPA (26.49)
+St_id ( 7519): Name (Yacaxbjkc, Aqzocxh), Dept (QQFVOJWRCQTGRI), grade (6), GPA (16.56)
+3622 508 9154 2836 3647 5563 4259 9555 4125 7519 
+Average time for seaching a studet from Array :99.6091 microseconds
+
+Students Array sorted by GPA_ID : 
+First 10 of total 10000 students:
+St_id ( 3379): Name (Qqpojeh, Fioj), Dept (CFUC), grade (4), GPA (0)
+St_id ( 4586): Name (Qohykajcbs, Oqwzmixqmxxfst), Dept (SOQTT), grade (5), GPA (0.01)
+St_id ( 2614): Name (Epyobbblcxdo, Ofeksrh), Dept (LSPWEMBLMZRGI), grade (1), GPA (0.02)
+St_id ( 3187): Name (Wqmeoxbh, Khhtvxmstq), Dept (WYWPBWXSQ), grade (7), GPA (0.02)
+St_id ( 9855): Name (Xowhwbacem, Ohjvuh), Dept (JFPKFM), grade (1), GPA (0.03)
+St_id ( 9712): Name (Bjrzbkz, Wfhuzabgrnhnms), Dept (NUKFYVJ), grade (4), GPA (0.03)
+St_id ( 1348): Name (Sxmuqankx, Wrpcsa), Dept (SBQGZC), grade (2), GPA (0.04)
+St_id ( 2042): Name (Lzqwnrmend, Auvkmgiokym), Dept (LNRGQZ), grade (4), GPA (0.05)
+St_id ( 2551): Name (Rhyl, Wdiia), Dept (IBJASPJUIKNM), grade (1), GPA (0.05)
+St_id ( 7777): Name (Tcewhyuuxjp, Cycfpizdcadzh), Dept (TUPNFO), grade (4), GPA (0.05)
+Last 10 of total 10000 students:
+St_id ( 3623): Name (Nhdo, Cdlmuc), Dept (SNX), grade (8), GPA (99.89)
+St_id ( 7918): Name (Rnvt, Gukwsrqkyecf), Dept (OYNN), grade (3), GPA (99.93)
+St_id ( 6130): Name (Glnr, Usnhlna), Dept (ZBHKKBIV), grade (4), GPA (99.93)
+St_id ( 5878): Name (Igfhrs, Mlmeldtr), Dept (GQYAK), grade (5), GPA (99.94)
+St_id ( 3997): Name (Axtbbvbj, Vdxyzbwimaxs), Dept (CYZPIWCRHMVDF), grade (7), GPA (99.96)
+St_id ( 5710): Name (Wwu, Bvwvwf), Dept (UDDNSHJDPJKJB), grade (8), GPA (99.96)
+St_id ( 3843): Name (Larxtqjrbb, Bzarjsydwcf), Dept (EGI), grade (8), GPA (99.97)
+St_id ( 3022): Name (Tkbhwsleetty, Rmpnp), Dept (DNKSQZO), grade (7), GPA (99.97)
+St_id ( 9198): Name (Agprgudraxj, Wenyejfkvwplnn), Dept (JZNBBCYSQ), grade (3), GPA (99.97)
+St_id ( 1375): Name (Ddepujik, Leovdcufw), Dept (VHMNHVEJHZY), grade (6), GPA (99.99)
+
+***Management of ;linked list of students ***
+Average time to insert a student in sorted linked list : 79.2091 microseconds 
+
+List of 10000students in sorted order by ID (decreasing order):
+    0,     1,     2,     3,     4,     5,     6,     7,     8,     9, 
+   10,    11,    12,    13,    14,    15,    16,    17,    18,    19, 
+   20,    21,    22,    23,    24,    25,    26,    27,    28,    29, 
+   30,    31,    32,    33,    34,    35,    36,    37,    38,    39, 
+   40,    41,    42,    43,    44,    45,    46,    47,    48,    49, 
+ 9950,  9951,  9952,  9953,  9954,  9955,  9956,  9957,  9958,  9959, 
+ 9960,  9961,  9962,  9963,  9964,  9965,  9966,  9967,  9968,  9969, 
+ 9970,  9971,  9972,  9973,  9974,  9975,  9976,  9977,  9978,  9979, 
+ 9980,  9981,  9982,  9983,  9984,  9985,  9986,  9987,  9988,  9989, 
+ 9990,  9991,  9992,  9993,  9994,  9995,  9996,  9997,  9998,  9999, 
+
+10 searched results from Linked List:
+St_id ( 3622): Name (Otvn, Lrbid), Dept (OTGEH), grade (1), GPA (25.72)
+St_id (  508): Name (Poygtfmhdm, Uthqbbddwitot), Dept (TSTTFOBIRE), grade (5), GPA (13.75)
+St_id ( 9154): Name (Vjthfhzrsp, Anyen), Dept (SAGYJ), grade (6), GPA (14.96)
+St_id ( 2836): Name (Tcw, Ywclrjzfatctt), Dept (QXHLENRKMRI), grade (1), GPA (95.05)
+St_id ( 3647): Name (Evaiu, Aqsshju), Dept (JREWBFILGPACAM), grade (4), GPA (9.2)
+St_id ( 5563): Name (Uzv, Wfxpjlefx), Dept (FWTULDD), grade (3), GPA (12.17)
+St_id ( 4259): Name (Kgztpyfrx, Eadwbkmefnon), Dept (YHY), grade (1), GPA (13.91)
+St_id ( 9555): Name (Nks, Empl), Dept (ZSCBZIRF), grade (1), GPA (74.5)
+St_id ( 4125): Name (Cwxbfq, Suhf), Dept (QCSEPTRBX), grade (8), GPA (26.49)
+St_id ( 7519): Name (Yacaxbjkc, Bskuhgitkoj), Dept (QQFVOJWRCQTGRI), grade (6), GPA (16.56)
+3622 508 9154 2836 3647 5563 4259 9555 4125 7519 
+Average time for searching a student from Linked List:330.366 microeconds
+
+ *** Management of Binary Tree of students *** 
+Average time to insert a student in binary tree :1.60294 microseconds
+
+ Tree of 10000 Students in sorted order by ID (in-order ): 
+    0,     1,     2,     3,     4,     5,     6,     7,     8,     9, 
+   10,    11,    12,    13,    14,    15,    16,    17,    18,    19, 
+   20,    21,    22,    23,    24,    25,    26,    27,    28,    29, 
+   30,    31,    32,    33,    34,    35,    36,    37,    38,    39, 
+   40,    41,    42,    43,    44,    45,    46,    47,    48,    49, 
+ 9950,  9951,  9952,  9953,  9954,  9955,  9956,  9957,  9958,  9959, 
+ 9960,  9961,  9962,  9963,  9964,  9965,  9966,  9967,  9968,  9969, 
+ 9970,  9971,  9972,  9973,  9974,  9975,  9976,  9977,  9978,  9979, 
+ 9980,  9981,  9982,  9983,  9984,  9985,  9986,  9987,  9988,  9989, 
+ 9990,  9991,  9992,  9993,  9994,  9995,  9996,  9997,  9998,  9999, 
+
+10 searched results from Binary Tree:..
+St_id ( 3622): Name (Otvn, Lrbid), Dept (OTGEH), grade (1), GPA (25.72)
+St_id (  508): Name (Poygtfmhdm, Uthqbbddwitot), Dept (TSTTFOBIRE), grade (5), GPA (13.75)
+St_id ( 9154): Name (Vjthfhzrsp, Anyen), Dept (SAGYJ), grade (6), GPA (14.96)
+St_id ( 2836): Name (Tcw, Ywclrjzfatctt), Dept (QXHLENRKMRI), grade (1), GPA (95.05)
+St_id ( 3647): Name (Evaiu, Aqsshju), Dept (JREWBFILGPACAM), grade (4), GPA (9.2)
+St_id ( 5563): Name (Uzv, Wfxpjlefx), Dept (FWTULDD), grade (3), GPA (12.17)
+St_id ( 4259): Name (Kgztpyfrx, Eadwbkmefnon), Dept (YHY), grade (1), GPA (13.91)
+St_id ( 9555): Name (Nks, Empl), Dept (ZSCBZIRF), grade (1), GPA (74.5)
+St_id ( 4125): Name (Cwxbfq, Suhf), Dept (QCSEPTRBX), grade (8), GPA (26.49)
+St_id ( 7519): Name (Yacaxbjkc, Bskuhgitkoj), Dept (QQFVOJWRCQTGRI), grade (6), GPA (16.56)
+3622 508 9154 2836 3647 5563 4259 9555 4125 7519 
+Average time for searching a student from binary tree :3.91905 microseconds 
+

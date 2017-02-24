@@ -1,0 +1,58 @@
+
+First 100 total 2000
+
+st_id: 53 Ghfnnhbn Bgmdcmam Dept: alejcknm grade: 3 GPA: 69
+st_id: 378 Jfchlbil Efhlkdle Dept: ialdhblf grade: 4 GPA: 64
+st_id: 159 Hfgbjeek Kgfajkgm Dept: kkmbceba grade: 1 GPA: 39
+st_id: 1352 Dcemfjfb Gkefkfaj Dept: geefclbj grade: 1 GPA: 7
+st_id: 297 Fjabkkmk Hdlbjfjh Dept: kfgencdi grade: 5 GPA: 91
+st_id: 1844 Mhcllaim Iicelgbm Dept: ilfelinn grade: 1 GPA: 0
+st_id: 1815 Djmddnhd Nnaghieg Dept: fmlaaeka grade: 5 GPA: 38
+st_id: 305 Medeckha Aebefgdf Dept: iaadnhkc grade: 1 GPA: 92
+st_id: 987 Cddjbebe Bhckeddl Dept: jmkbnegl grade: 7 GPA: 34
+st_id: 1485 Flmnnjha Bhgdaebl Dept: nllhegfc grade: 7 GPA: 13
+
+Last 100 total 2000
+
+st_id: 331 Ffgdhidd Mkhecifh Dept: cmjidgbh grade: 7 GPA: 44
+st_id: 927 Afnnenem Mjaeabcl Dept: lmanmade grade: 4 GPA: 8
+st_id: 1574 Inmfijcc Bibbncik Dept: ldclcfdc grade: 7 GPA: 78
+st_id: 1164 Agahajbe Flibffae Dept: kefjijcd grade: 5 GPA: 18
+st_id: 1393 Bbkjgacn Kfknigke Dept: lihjdjen grade: 1 GPA: 91
+st_id: 1983 Hhgilhek Kcialbdj Dept: lnkmgajk grade: 3 GPA: 45
+st_id: 1033 Jiijkimj Mininlme Dept: nclmgjnk grade: 1 GPA: 86
+st_id: 1875 Eanjikki Iidiagda Dept: cgcbmjbb grade: 5 GPA: 59
+st_id: 784 Fljnggib Ccjcmdmd Dept: nfgiabkl grade: 5 GPA: 47
+st_id: 1952 Gkkcilen Abdkhang Dept: eigidijg grade: 5 GPA: 97
+Sort students array by ID 
+
+First 100 total 2000
+
+st_id: -33686019   Dept:  grade: 0 GPA: 0
+st_id: 53 Ghfnnhbn Bgmdcmam Dept: alejcknm grade: 3 GPA: 69
+st_id: 378 Jfchlbil Efhlkdle Dept: ialdhblf grade: 4 GPA: 64
+st_id: 159 Hfgbjeek Kgfajkgm Dept: kkmbceba grade: 1 GPA: 39
+st_id: 1352 Dcemfjfb Gkefkfaj Dept: geefclbj grade: 1 GPA: 7
+st_id: 297 Fjabkkmk Hdlbjfjh Dept: kfgencdi grade: 5 GPA: 91
+st_id: 1844 Mhcllaim Iicelgbm Dept: ilfelinn grade: 1 GPA: 0
+st_id: 1815 Djmddnhd Nnaghieg Dept: fmlaaeka grade: 5 GPA: 38
+st_id: 305 Medeckha Aebefgdf Dept: iaadnhkc grade: 1 GPA: 92
+st_id: 987 Cddjbebe Bhckeddl Dept: jmkbnegl grade: 7 GPA: 34
+
+Last 100 total 2000
+
+st_id: 331 Ffgdhidd Mkhecifh Dept: cmjidgbh grade: 7 GPA: 44
+st_id: 1055 Engbeijh Banebmim Dept: hacdfenf grade: 2 GPA: 63
+st_id: 927 Afnnenem Mjaeabcl Dept: lmanmade grade: 4 GPA: 8
+st_id: 1574 Inmfijcc Bibbncik Dept: ldclcfdc grade: 7 GPA: 78
+st_id: 1164 Agahajbe Flibffae Dept: kefjijcd grade: 5 GPA: 18
+st_id: 1393 Bbkjgacn Kfknigke Dept: lihjdjen grade: 1 GPA: 91
+st_id: 1983 Hhgilhek Kcialbdj Dept: lnkmgajk grade: 3 GPA: 45
+st_id: 1033 Jiijkimj Mininlme Dept: nclmgjnk grade: 1 GPA: 86
+st_id: 784 Fljnggib Ccjcmdmd Dept: nfgiabkl grade: 5 GPA: 47
+st_id: 1952 Gkkcilen Abdkhang Dept: eigidijg grade: 5 GPA: 97
+
+List of2000
+Students in sorted order by ID(decreasing order): 
+
+ Seached results from linked list of students

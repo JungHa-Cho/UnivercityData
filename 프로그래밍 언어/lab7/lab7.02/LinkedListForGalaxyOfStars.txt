@@ -1,0 +1,131 @@
+Galaxy after insertNodeInOrder(Etmbsh):Number of stars:1
+ Star_ID (  9), Name (Etmbsh)
+Galaxy after insertNodeInOrder(Nwxghgtx):Number of stars:2
+ Star_ID (  1), Name (Nwxghgtx)
+ Star_ID (  9), Name (Etmbsh)
+Galaxy after insertNodeInOrder(Ifxvx):Number of stars:3
+ Star_ID (  1), Name (Nwxghgtx)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  9), Name (Etmbsh)
+Galaxy after insertNodeInOrder(Acdqx):Number of stars:4
+ Star_ID (  0), Name (Acdqx)
+ Star_ID (  1), Name (Nwxghgtx)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  9), Name (Etmbsh)
+Galaxy after insertNodeInOrder(Pzvipkheg):Number of stars:5
+ Star_ID (  0), Name (Acdqx)
+ Star_ID (  1), Name (Nwxghgtx)
+ Star_ID (  4), Name (Pzvipkheg)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  9), Name (Etmbsh)
+Galaxy after insertNodeInOrder(Ynauuy):Number of stars:6
+ Star_ID (  0), Name (Acdqx)
+ Star_ID (  1), Name (Nwxghgtx)
+ Star_ID (  3), Name (Ynauuy)
+ Star_ID (  4), Name (Pzvipkheg)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  9), Name (Etmbsh)
+Galaxy after insertNodeInOrder(Idpwjzcxd):Number of stars:7
+ Star_ID (  0), Name (Acdqx)
+ Star_ID (  1), Name (Nwxghgtx)
+ Star_ID (  3), Name (Ynauuy)
+ Star_ID (  4), Name (Pzvipkheg)
+ Star_ID (  6), Name (Idpwjzcxd)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  9), Name (Etmbsh)
+Galaxy after insertNodeInOrder(Wbght):Number of stars:8
+ Star_ID (  0), Name (Acdqx)
+ Star_ID (  1), Name (Nwxghgtx)
+ Star_ID (  3), Name (Ynauuy)
+ Star_ID (  4), Name (Pzvipkheg)
+ Star_ID (  5), Name (Wbght)
+ Star_ID (  6), Name (Idpwjzcxd)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  9), Name (Etmbsh)
+Galaxy after insertNodeInOrder(Ycvthmom):Number of stars:9
+ Star_ID (  0), Name (Acdqx)
+ Star_ID (  1), Name (Nwxghgtx)
+ Star_ID (  2), Name (Ycvthmom)
+ Star_ID (  3), Name (Ynauuy)
+ Star_ID (  4), Name (Pzvipkheg)
+ Star_ID (  5), Name (Wbght)
+ Star_ID (  6), Name (Idpwjzcxd)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  9), Name (Etmbsh)
+Galaxy after insertNodeInOrder(Vusesjevio):Number of stars:10
+ Star_ID (  0), Name (Acdqx)
+ Star_ID (  1), Name (Nwxghgtx)
+ Star_ID (  2), Name (Ycvthmom)
+ Star_ID (  3), Name (Ynauuy)
+ Star_ID (  4), Name (Pzvipkheg)
+ Star_ID (  5), Name (Wbght)
+ Star_ID (  6), Name (Idpwjzcxd)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  8), Name (Vusesjevio)
+ Star_ID (  9), Name (Etmbsh)
+ Galaxy after node (0, Acdqx) removed from list head: Number of stars:9
+ Star_ID (  1), Name (Nwxghgtx)
+ Star_ID (  2), Name (Ycvthmom)
+ Star_ID (  3), Name (Ynauuy)
+ Star_ID (  4), Name (Pzvipkheg)
+ Star_ID (  5), Name (Wbght)
+ Star_ID (  6), Name (Idpwjzcxd)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  8), Name (Vusesjevio)
+ Star_ID (  9), Name (Etmbsh)
+ New head in list of Galaxy: Nwxghgtx
+ Galaxy after node (1, Nwxghgtx) removed from list head: Number of stars:8
+ Star_ID (  2), Name (Ycvthmom)
+ Star_ID (  3), Name (Ynauuy)
+ Star_ID (  4), Name (Pzvipkheg)
+ Star_ID (  5), Name (Wbght)
+ Star_ID (  6), Name (Idpwjzcxd)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  8), Name (Vusesjevio)
+ Star_ID (  9), Name (Etmbsh)
+ New head in list of Galaxy: Ycvthmom
+ Galaxy after node (2, Ycvthmom) removed from list head: Number of stars:7
+ Star_ID (  3), Name (Ynauuy)
+ Star_ID (  4), Name (Pzvipkheg)
+ Star_ID (  5), Name (Wbght)
+ Star_ID (  6), Name (Idpwjzcxd)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  8), Name (Vusesjevio)
+ Star_ID (  9), Name (Etmbsh)
+ New head in list of Galaxy: Ynauuy
+ Galaxy after node (3, Ynauuy) removed from list head: Number of stars:6
+ Star_ID (  4), Name (Pzvipkheg)
+ Star_ID (  5), Name (Wbght)
+ Star_ID (  6), Name (Idpwjzcxd)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  8), Name (Vusesjevio)
+ Star_ID (  9), Name (Etmbsh)
+ New head in list of Galaxy: Pzvipkheg
+ Galaxy after node (4, Pzvipkheg) removed from list head: Number of stars:5
+ Star_ID (  5), Name (Wbght)
+ Star_ID (  6), Name (Idpwjzcxd)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  8), Name (Vusesjevio)
+ Star_ID (  9), Name (Etmbsh)
+ New head in list of Galaxy: Wbght
+ Galaxy after node (5, Wbght) removed from list head: Number of stars:4
+ Star_ID (  6), Name (Idpwjzcxd)
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  8), Name (Vusesjevio)
+ Star_ID (  9), Name (Etmbsh)
+ New head in list of Galaxy: Idpwjzcxd
+ Galaxy after node (6, Idpwjzcxd) removed from list head: Number of stars:3
+ Star_ID (  7), Name (Ifxvx)
+ Star_ID (  8), Name (Vusesjevio)
+ Star_ID (  9), Name (Etmbsh)
+ New head in list of Galaxy: Ifxvx
+ Galaxy after node (7, Ifxvx) removed from list head: Number of stars:2
+ Star_ID (  8), Name (Vusesjevio)
+ Star_ID (  9), Name (Etmbsh)
+ New head in list of Galaxy: Vusesjevio
+ Galaxy after node (8, Vusesjevio) removed from list head: Number of stars:1
+ Star_ID (  9), Name (Etmbsh)
+ New head in list of Galaxy: Etmbsh
+ Galaxy after node (9, Etmbsh) removed from list head: Number of stars:0
+
+
