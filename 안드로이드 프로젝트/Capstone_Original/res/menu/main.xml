@@ -1,0 +1,325 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item
+        android:id="@+id/subMenu"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="Activity">
+        <menu>
+                <item
+       				android:id="@+id/SimpleMenu"
+        			android:orderInCategory="1"
+        			android:showAsAction="never"
+        			android:title="TileView Activity"/>
+                <item
+        			android:id="@+id/SimpleMenu2"
+        			android:orderInCategory="10"
+        			android:showAsAction="never"
+        			android:title="Wifi Activity"/>
+                <item
+        			android:id="@+id/SimpleMenu3"
+        			android:orderInCategory="10"
+        			android:showAsAction="never"
+        			android:title="Audio Record"/>
+                <item
+        			android:id="@+id/SimpleMenu4"
+        			android:orderInCategory="10"
+        			android:showAsAction="never"
+        			android:title="Graph View"/>
+         </menu>
+    </item>
+    
+    <item
+        android:id="@+id/subMenu2"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="tileview 메뉴">
+        <menu>
+                <item
+       				android:id="@+id/tilesubmenu"
+        			android:orderInCategory="1"
+        			android:showAsAction="never"
+        			android:title="위치측위 시작"/>
+                <item
+        			android:id="@+id/tilesubmenu2"
+        			android:orderInCategory="10"
+        			android:showAsAction="never"
+        			android:title="위치 측위 정지"/>
+                <item
+        			android:id="@+id/tilesubmenu3"
+        			android:orderInCategory="50"
+        			android:showAsAction="never"
+        			android:title="테스트"/>
+         </menu>
+    </item>
+    
+    <item
+        android:id="@+id/clickAbleMenu"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:checkable="true"
+        android:title="Service Start"/>
+    
+<!--     <item
+        android:id="@+id/IconMenu"
+        android:orderInCategory="3"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher"
+        android:title="아이콘 메뉴"/> -->
+    
+    <item
+        android:id="@+id/subMenu_1"
+        android:orderInCategory="4"
+        android:showAsAction="never"
+        android:title="목적지" >
+        <menu>
+            <item
+                android:id="@+id/subMenu_2"
+                android:orderInCategory="5"
+                android:showAsAction="never"
+                android:title="중앙 계단"/>
+            
+            <item
+                android:id="@+id/subMenu_3"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="전기관"/>
+            
+            <item
+                android:id="@+id/subMenu_4"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="중앙 출구"/>
+            
+            <item
+                android:id="@+id/subMenu_5"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="좌측 출구"/>
+            
+            <item
+                android:id="@+id/subMenu_6"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="우측 출구"/>
+            
+<!--             <item
+                android:id="@+id/subMenu_7"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="306"/>
+            
+            <item
+                android:id="@+id/subMenu_8"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="307"/>
+            
+            <item
+                android:id="@+id/subMenu_9"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="308"/>
+            
+            <item
+                android:id="@+id/subMenu_10"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="309"/>
+            
+            <item
+                android:id="@+id/subMenu_11"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="310"/>
+            
+            <item
+                android:id="@+id/subMenu_12"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="311"/>
+            
+            <item
+                android:id="@+id/subMenu_13"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="312"/>
+            
+            <item
+                android:id="@+id/subMenu_14"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="313"/>
+            
+            <item
+                android:id="@+id/subMenu_15"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="314"/>
+            
+            <item
+                android:id="@+id/subMenu_16"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="315"/>
+            
+            <item
+                android:id="@+id/subMenu_17"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="316"/>
+            
+            <item
+                android:id="@+id/subMenu_18"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="317"/>
+            
+            <item
+                android:id="@+id/subMenu_19"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="318"/>
+            
+            <item
+                android:id="@+id/subMenu_20"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="319"/>
+            
+            <item
+                android:id="@+id/subMenu_21"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="320"/>
+            
+            <item
+                android:id="@+id/subMenu_22"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="321"/>
+            
+            <item
+                android:id="@+id/subMenu_23"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="322"/>
+            <item
+                android:id="@+id/subMenu_24"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="323"/>
+            <item
+                android:id="@+id/subMenu_25"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="324"/>
+			<item
+                android:id="@+id/subMenu_26"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="325"/>
+            <item
+                android:id="@+id/subMenu_27"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="326"/>
+            <item
+                android:id="@+id/subMenu_28"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="327"/>
+			<item
+                android:id="@+id/subMenu_29"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="328"/>
+            <item
+                android:id="@+id/subMenu_30"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="329"/>
+            <item
+                android:id="@+id/subMenu_31"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="330"/>
+            <item
+                android:id="@+id/subMenu_32"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="331"/>
+            <item
+                android:id="@+id/subMenu_33"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="332"/>
+            <item
+                android:id="@+id/subMenu_34"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="333"/>
+            <item
+                android:id="@+id/subMenu_35"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="334"/>
+            <item
+                android:id="@+id/subMenu_36"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="335"/>
+            <item
+                android:id="@+id/subMenu_37"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="336"/>
+            <item
+                android:id="@+id/subMenu_38"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="337"/>  -->
+           <!--  <item
+                android:id="@+id/subMenu_39"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="전기관"/> 
+            <item
+                android:id="@+id/subMenu_40"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="중앙계단"/> 
+            <item
+                android:id="@+id/subMenu_41"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="우측계단"/> 
+            <item
+                android:id="@+id/subMenu_42"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="여화장실"/> 
+            <item
+                android:id="@+id/subMenu_43"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="남화장실"/> 
+            <item
+                android:id="@+id/subMenu_44"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="중앙로비"/> 
+            <item
+                android:id="@+id/subMenu_45"
+                android:orderInCategory="6"
+                android:showAsAction="never"
+                android:title="좌측계단"/>       -->                        
+        </menu>
+    </item>
+    
+<!--     <item
+        android:id="@+id/actionBarMenu"
+        android:orderInCategory="3"
+        android:showAsAction="always"
+        android:title="액션바메뉴"/> -->
+    
+</menu>

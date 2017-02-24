@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.capstondesign"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+    /* 리시버 퍼미션 */
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    /* 이메일 주소 */
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    /* 자신의 전화번호 가져오기 */
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    
+	<uses-permission android:name="android.permission.INTERNET" />  
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION"></uses-permission>
+    <!-- 녹음 퍼미션 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- GCM connects to Internet Services. -->
+    <!-- GCM requires a Google account. -->
+    <!-- Keeps the processor from sleeping when a message is received. -->
+    <!-- Creates a custom permission so only this app can receive its messages. -->
+    <!-- This app has permission to register and receive data message. -->
+    <!-- Network State Permissions to detect Internet status -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <permission
+        android:name="com.example.capstondesign.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.capstondesign.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- Permission to vibrate -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        /* 리시버 매니페스트
+        *  enabled - 시스템이 알아서 BootReceiver 실행
+        *  exported - 외부 어플 실행 불가, 같은 앱 또는 같은 UserID만 호출 가능
+        */
+        <receiver
+            android:name="background.BootReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+    	/* 리스타트 리시버 매니페스트
+    	*  process - 시스템의 Alarm을 받기위해서 추가
+    	*/
+        <receiver
+            android:name="background.RestartReceiver"
+            android:process=".remote" >
+            <intent-filter>
+                <action android:name="RestartReceiver.restart" />
+            </intent-filter>
+        </receiver>
+		/* Service 등록
+		*
+		*/ 
+        <service android:name="background.ListeningService" />
+
+        <receiver
+            android:name="com.google.android.gcm.GCMBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+
+                <!-- Receives the actual messages. -->
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <!-- Receives the registration id. -->
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.example.capstondesign" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".GCMIntentService" />
+
+        <activity
+            android:name=".TileViewActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_tile_view" >
+        </activity>
+        <activity
+            android:name="wifi.WifiScan"
+            android:label="@string/title_activity_wifi_scan" >
+        </activity>
+        <activity
+            android:name=".EmergencyActivitiy"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_emergency_activitiy" >
+        </activity>
+        <activity
+            android:name="audio.record.RecordActivity"
+            android:label="@string/title_activity_record" >
+            <intent-filter>
+                <action android:name="android.intent.action.Tile" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GraphViewActivity"
+            android:label="@string/title_activity_graph_view" >
+        </activity>
+    </application>
+
+</manifest>
