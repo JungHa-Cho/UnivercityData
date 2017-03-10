@@ -1,4 +1,4 @@
-# UnivercityData
+# UniversityData
 - 학부 프로젝트 저장소
 
 ## 프로그래밍 언어 (C++)
